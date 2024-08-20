@@ -1,11 +1,7 @@
 
----
-title: ""
----
+# Binod Karunanayake
 
 <img src="/profile-photo.png" width="100">
-
-# Binod Karunanayake
 
 I'm a PhD student at RMIT University Australia and BSc Engineering (Hons) graduate from University of Moratuwa Sri Lanka with expertise in Computer Science and Engineering. My research interests are artificial intelligence, internet-of-things, and edge computing.
 
