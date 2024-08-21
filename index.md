@@ -33,6 +33,20 @@ Contributing to feature development, update creation and R&D work in WSO2 API Ma
 
 Integrated AWS Lambda support for WSO2 API Manager. This feature was released in WSO2 API Manager 3.1.0.
 
+## Technical Skills
+
+|Area|Technologies|
+|-|-|
+|Programming Languages|`Python` `Java` `JavaScript` `TypeScript` `C` `C++` `PHP` `GO` `Dart` `Ballerina`|
+|Build Tools|`Maven` `Gradle` `NPM`|
+|Version Control|`Git` `GitHub`|
+|Web App Development|`HTML` `CSS` `React` `Angular`|
+|Mobile App Development|`Android Studio` `Flutter` `Unity`|
+|Embedded Computing|`Arduino` `RaspberryPi` `NVIDIA Jetson`|
+|Cloud Computing|`AWS` `GCP` `Azure`|
+|DevOps & CI/CD|`Docker` `Kubernetes` `GitHub Workflows`|
+
+
 ## Publications
 
 1. B. Karunanayake, U. Munasinghe, P. Demotte, L. Senevirathne, and S. Ranathunga, 'Sinhala Sentiment Lexicon Generation using Word Similarity', in 2020 20th International Conference on Advances in ICT for Emerging Regions (ICTer), 2020, pp. 77–82.
