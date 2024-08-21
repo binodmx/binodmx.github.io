@@ -46,7 +46,18 @@ Integrated AWS Lambda support for WSO2 API Manager. This feature was released in
 |Cloud Computing|`AWS` `GCP` `Azure`|
 |DevOps & CI/CD|`Docker` `Kubernetes` `GitHub Workflows`|
 
+## Certifications
+
+- [Oracle Cloud Infrastructure Generative AI Professional (2024)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FB85CE94E8D96A6C7260F60AC271B1D351C575039429A739E916072D22F6435F)
+- [Machine Learning Specialization (2024)](https://www.coursera.org/account/accomplishments/specialization/BAR4Y6FC3766)
+- [Flutter & Dart - The Complete Guide (2023)](https://www.udemy.com/certificate/UC-ea4ba8ab-5bff-4f9e-a701-b4acb885652c/)
+- [The Gradle Masterclass on Udemy (2022)](https://www.udemy.com/certificate/UC-27198337-8d31-4e1d-bb48-2487fc6cf0b8/)
+- [WSO2 Certified API Manager Practitioner - V4 - API Management Profile (2021)](https://certification.wso2.com/web/certificate/XPEF9Z)
+- [Apache Maven: Beginner to Guru on Udemy (2021)](https://www.udemy.com/certificate/UC-d9daf6d1-1656-417c-9168-54892adabfa0/)
+- [Deep Learning Specialization by deeplearning.ai (2020)](https://www.coursera.org/account/accomplishments/specialization/certificate/KTR79TML9CWH)
+- [Developing Applications with Google Cloud Platform Specialization by Google Cloud Training (2020)](https://www.coursera.org/account/accomplishments/specialization/certificate/8YCWQP6Y63XH)
+- [Angular - The Complete Guide on Udemy (2020)](https://www.udemy.com/certificate/UC-c2ad733c-9d87-4fd9-8897-2083b4daad1f/)
 
 ## Publications
 
-1. B. Karunanayake, U. Munasinghe, P. Demotte, L. Senevirathne, and S. Ranathunga, 'Sinhala Sentiment Lexicon Generation using Word Similarity', in 2020 20th International Conference on Advances in ICT for Emerging Regions (ICTer), 2020, pp. 77–82.
+- B. Karunanayake, U. Munasinghe, P. Demotte, L. Senevirathne, and S. Ranathunga, 'Sinhala Sentiment Lexicon Generation using Word Similarity', in *2020 20th International Conference on Advances in ICT for Emerging Regions (ICTer)*, 2020, pp. 77–82.
