@@ -5,10 +5,11 @@
 
 I'm a PhD student at RMIT University Australia and BSc Engineering (Hons) graduate from University of Moratuwa Sri Lanka with expertise in Computer Science and Engineering. My research interests are artificial intelligence, internet-of-things, and edge computing.
 
-- [Linkedin](https://linkedin.com/in/binodmx)
-- [Google Scholar](https://scholar.google.com/citations?user=vk7eVU0AAAAJ)
-- [ORCid](https://orcid.org/0000-0002-0426-1190)
-- [Medium](https://binodmx.medium.com)
+[<img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width="20">](#) [<sup>`Linkedin`</sup>](https://linkedin.com/in/binodmx)&emsp;&emsp;
+[<img src="https://github.githubassets.com/favicons/favicon.svg" width="20">](#) [<sup>`GitHub`</sup>](https://github.com/binodmx)&emsp;&emsp;
+[<img src="https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19" width="20">](#) [<sup>`Medium`</sup>](https://binodmx.medium.com)&emsp;&emsp;
+[<img src="https://scholar.google.com/favicon.ico" width="20">](#) [<sup>`Google Scholar`</sup>](https://scholar.google.com/citations?user=vk7eVU0AAAAJ)&emsp;&emsp;
+[<img src="https://orcid.org/assets/icons/favicon.ico" width="20">](#) [<sup>`ORCid`</sup>](https://orcid.org/0000-0002-0426-1190)
 
 ## Education
 
@@ -49,7 +50,7 @@ Integrated AWS Lambda support for WSO2 API Manager. This feature was released in
 ## Certifications
 
 - [Oracle Cloud Infrastructure Generative AI Professional (2024)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FB85CE94E8D96A6C7260F60AC271B1D351C575039429A739E916072D22F6435F)
-- [Machine Learning Specialization (2024)](https://www.coursera.org/account/accomplishments/specialization/BAR4Y6FC3766)
+- [Machine Learning Specialization by deeplearning.ai (2024)](https://www.coursera.org/account/accomplishments/specialization/BAR4Y6FC3766)
 - [Flutter & Dart - The Complete Guide (2023)](https://www.udemy.com/certificate/UC-ea4ba8ab-5bff-4f9e-a701-b4acb885652c/)
 - [The Gradle Masterclass on Udemy (2022)](https://www.udemy.com/certificate/UC-27198337-8d31-4e1d-bb48-2487fc6cf0b8/)
 - [WSO2 Certified API Manager Practitioner - V4 - API Management Profile (2021)](https://certification.wso2.com/web/certificate/XPEF9Z)
