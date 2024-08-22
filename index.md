@@ -1,10 +1,12 @@
-# Binod Karunanayake
+# <p align="center"><img src="https://media.licdn.com/dms/image/v2/D5603AQHup07GRCU4MQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1683479430365?e=2147483647&v=beta&t=JMWl2GKptzmxDuCz7RbAYlsrDJ1niTl5eZ7mEn92tts" width="100"><br>Binod Karunanayake</p>
 
-[<img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width="20">](https://linkedin.com/in/binodmx) [<span style="font-size:1.2em;"><sup>`Linkedin`</sup></span>](https://linkedin.com/in/binodmx)&emsp;
-[<img src="https://github.githubassets.com/favicons/favicon.svg" width="20">](https://github.com/binodmx) [<span style="font-size:1.2em;"><sup>`GitHub`</sup></span>](https://github.com/binodmx)&emsp;
-[<img src="https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19" width="20">](https://binodmx.medium.com) [<span style="font-size:1.2em;"><sup>`Medium`</sup></span>](https://binodmx.medium.com)&emsp;
-[<img src="https://scholar.google.com/favicon.ico" width="20">](https://scholar.google.com/citations?user=vk7eVU0AAAAJ) [<span style="font-size:1.2em;"><sup>`Google Scholar`</sup></span>](https://scholar.google.com/citations?user=vk7eVU0AAAAJ)&emsp;
-[<img src="https://orcid.org/assets/icons/favicon.ico" width="20">](https://orcid.org/0000-0002-0426-1190) [<span style="font-size:1.2em;"><sup>`ORCid`</sup></span>](https://orcid.org/0000-0002-0426-1190)
+<p align="center">
+  <a href="#"><img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width="20"></a> <a href="https://linkedin.com/in/binodmx"><sup><tt>Linkedin</tt></sup></a>&emsp;
+  <a href="#"><img src="https://github.githubassets.com/favicons/favicon.svg" width="20"></a> <a href="https://github.com/binodmx"><sup><tt>GitHub</tt></sup></a>&emsp;
+  <a href="#"><img src="https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19" width="20"></a> <a href="https://binodmx.medium.com"><sup><tt>Medium</tt></sup></a>&emsp;
+  <a href="#"><img src="https://scholar.google.com/favicon.ico" width="20"></a> <a href="https://scholar.google.com/citations?user=vk7eVU0AAAAJ"><sup><tt>Google Scholar</tt></sup></a>&emsp;
+  <a href="#"><img src="https://orcid.org/assets/icons/favicon.ico" width="20"></a> <a href="https://orcid.org/0000-0002-0426-1190"><sup><tt>ORCiD</tt></sup></a>&emsp;
+</p>
 
 I'm a PhD student at RMIT University Australia and BSc Engineering (Hons) graduate from University of Moratuwa Sri Lanka with expertise in Computer Science and Engineering. My research interests are artificial intelligence, internet-of-things, and edge computing.
 
