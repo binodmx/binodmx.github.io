@@ -1,4 +1,4 @@
-# <p align="center">Binod Karunanayake</p>
+<h1 align="center">Binod Karunanayake</h1>
 
 <!-- <p align="center"><img src="https://media.licdn.com/dms/image/v2/D5603AQHup07GRCU4MQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1683479430365?e=2147483647&v=beta&t=JMWl2GKptzmxDuCz7RbAYlsrDJ1niTl5eZ7mEn92tts" width="100"></p> -->
 
