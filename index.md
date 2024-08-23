@@ -1,8 +1,8 @@
-<h1 align="center">Binod Karunanayake</h1>
+# Binod Karunanayake
 
 <!-- <p align="center"><img src="https://media.licdn.com/dms/image/v2/D5603AQHup07GRCU4MQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1683479430365?e=2147483647&v=beta&t=JMWl2GKptzmxDuCz7RbAYlsrDJ1niTl5eZ7mEn92tts" width="100"></p> -->
 
-<p align="center">
+<p>
   <a href="#"><img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width="20"></a> <a href="https://linkedin.com/in/binodmx"><sup><tt>Linkedin</tt></sup></a>&emsp;
   <a href="#"><img src="https://github.githubassets.com/favicons/favicon.svg" width="20"></a> <a href="https://github.com/binodmx"><sup><tt>GitHub</tt></sup></a>&emsp;
   <a href="#"><img src="https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19" width="20"></a> <a href="https://binodmx.medium.com"><sup><tt>Medium</tt></sup></a>&emsp;
