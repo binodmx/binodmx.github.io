@@ -12,7 +12,7 @@
 
 I'm a PhD student at RMIT University Australia and BSc Engineering (Hons) graduate from University of Moratuwa Sri Lanka with expertise in Computer Science and Engineering. My research interests are artificial intelligence, internet-of-things, and edge computing.
 
-## Education
+## Education 🎓
 
 ### PhD (Computer Science)
 RMIT University, Australia<br>
@@ -24,7 +24,7 @@ University of Moratuwa, Sri Lanka<br>
 2016 - 2021
 
 
-## Professional Experience
+## Professional Experience 💼
 
 ### Software Engineer @WSO2
 
@@ -35,7 +35,7 @@ Contributing to feature development, update creation and R&D work in WSO2 API Ma
 
 Integrated AWS Lambda support for WSO2 API Manager. This feature was released in WSO2 API Manager 3.1.0.
 
-## Technical Skills
+## Technical Skills 🛠️
 
 |Area|Technologies|
 |-|-|
@@ -48,7 +48,7 @@ Integrated AWS Lambda support for WSO2 API Manager. This feature was released in
 |Cloud Computing|`AWS` `GCP` `Azure`|
 |DevOps & CI/CD|`Docker` `Kubernetes` `GitHub Workflows`|
 
-## Certifications
+## Certifications 🏅
 
 - [Oracle Cloud Infrastructure Generative AI Professional (2024)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FB85CE94E8D96A6C7260F60AC271B1D351C575039429A739E916072D22F6435F)
 - [Machine Learning Specialization by deeplearning.ai (2024)](https://www.coursera.org/account/accomplishments/specialization/BAR4Y6FC3766)
@@ -60,6 +60,6 @@ Integrated AWS Lambda support for WSO2 API Manager. This feature was released in
 - [Developing Applications with Google Cloud Platform Specialization by Google Cloud Training (2020)](https://www.coursera.org/account/accomplishments/specialization/certificate/8YCWQP6Y63XH)
 - [Angular - The Complete Guide on Udemy (2020)](https://www.udemy.com/certificate/UC-c2ad733c-9d87-4fd9-8897-2083b4daad1f/)
 
-## Publications
+## Publications 📄
 
 - B. Karunanayake, U. Munasinghe, P. Demotte, L. Senevirathne, and S. Ranathunga, 'Sinhala Sentiment Lexicon Generation using Word Similarity', in *2020 20th International Conference on Advances in ICT for Emerging Regions (ICTer)*, 2020, pp. 77–82.
