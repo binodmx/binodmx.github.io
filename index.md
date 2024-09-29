@@ -6,14 +6,14 @@
   <a href="#"><img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width="20"></a> <a href="https://linkedin.com/in/binodmx"><sup><tt>Linkedin</tt></sup></a>&emsp;
   <a href="#"><img src="https://github.githubassets.com/favicons/favicon.svg" width="20"></a> <a href="https://github.com/binodmx"><sup><tt>GitHub</tt></sup></a>&emsp;
   <a href="#"><img src="https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19" width="20"></a> <a href="https://binodmx.medium.com"><sup><tt>Medium</tt></sup></a>&emsp;
-  <a href="#"><img src="https://scholar.google.com/favicon.ico" width="20"></a> <a href="https://scholar.google.com/citations?user=vk7eVU0AAAAJ"><sup><tt>Google Scholar</tt></sup></a>&emsp;
+  <a href="#"><img src="https://scholar.google.com/favicon.ico" width="20"></a> <a href="https://scholar.google.com/citations?user=nlbLUJ0AAAAJ"><sup><tt>Google Scholar</tt></sup></a>&emsp;
   <a href="#"><img src="https://orcid.org/assets/icons/favicon.ico" width="20"></a> <a href="https://orcid.org/0000-0002-0426-1190"><sup><tt>ORCiD</tt></sup></a>&emsp;
   <a href="#"><img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="20"></a> <a href="https://www.hackerrank.com/profile/binod16"><sup><tt>HackerRank</tt></sup></a>&emsp;
 </p>
 
 <!-- https://www.kaggle.com/binodmx -->
 
-I'm a PhD student at RMIT University Australia and BSc Engineering (Hons) graduate from University of Moratuwa Sri Lanka with expertise in Computer Science and Engineering. My research interests are <u>artificial intelligence</u>, <u>internet-of-things</u>, and <u>edge computing</u>.
+I am a PhD student at RMIT University Australia and a BSc Engineering (Hons) graduate from University of Moratuwa Sri Lanka, with a strong background in Computer Science and Engineering. My research focuses on <u>Artificial Intelligence (AI)</u>, <u>Internet of Things (IoT)</u>, and <u>Edge Computing</u>. With a passion for innovation and a commitment to advancing technology, I seek to contribute my expertise to projects that push the boundaries of these fields.
 
 ## Education 🎓
 
