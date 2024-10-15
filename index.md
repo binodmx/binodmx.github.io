@@ -73,16 +73,18 @@ Integrated AWS Lambda support for WSO2 API Manager. This feature was released in
 <table>
   <tr>
     <td>
-      <a href="https://data.typeracer.com/pit/profile?user=binodmx&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=binodmx" border="0" alt="TypeRacer.com scorecard for user binodmx"/></a>
+      <a href="https://data.typeracer.com/pit/profile?user=binodmx&ref=badge" target="_blank"><img src="https://data.typeracer.com/misc/badge?user=binodmx"></a>
     </td>
     <td>
-      <a href="https://stackexchange.com/users/14262691"><img src="https://stackexchange.com/users/flair/14262691.png" width="208" height="58"></a>
+      <a href="https://stackexchange.com/users/14262691" target="_blank"><img src="https://stackexchange.com/users/flair/14262691.png"></a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=binodmx&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+      <a href="https://github.com/binodmx" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=binodmx&theme=dark&hide_border=false&include_all_commits=true&count_private=true"></a>
     </td>
   </tr>
   <tr>
-    <td colspan="3"><img src="https://holopin.me/binodmx"></td>
+    <td colspan="3">
+      <a href="https://www.holopin.io/@binodmx" target="_blank"><img src="https://holopin.me/binodmx"></a>
+    </td>
   </tr>
 </table>
