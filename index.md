@@ -67,3 +67,22 @@ Integrated AWS Lambda support for WSO2 API Manager. This feature was released in
 ## Publications 📄
 
 - B. Karunanayake, U. Munasinghe, P. Demotte, L. Senevirathne, and S. Ranathunga, 'Sinhala Sentiment Lexicon Generation using Word Similarity', in *2020 20th International Conference on Advances in ICT for Emerging Regions (ICTer)*, 2020, pp. 77–82.
+
+## Badges 🛡️
+
+<table>
+  <tr>
+    <td>
+      <a href="https://data.typeracer.com/pit/profile?user=binodmx&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=binodmx" border="0" alt="TypeRacer.com scorecard for user binodmx"/></a>
+    </td>
+    <td>
+      <a href="https://stackexchange.com/users/14262691"><img src="https://stackexchange.com/users/flair/14262691.png" width="208" height="58"></a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=binodmx&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="https://holopin.me/binodmx"></td>
+  </tr>
+</table>
