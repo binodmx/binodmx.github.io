@@ -1,6 +1,6 @@
 # Binod Karunanayake
 
-<link rel="icon" type="image/x-icon" href="https://media.licdn.com/dms/image/v2/D5603AQHup07GRCU4MQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1683479430365?e=2147483647&v=beta&t=JMWl2GKptzmxDuCz7RbAYlsrDJ1niTl5eZ7mEn92tts">
+<link rel="icon" type="image/x-icon" href="favicon.ico">
 
 <p>
   <a href="#"><img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width="20"></a> <a href="https://linkedin.com/in/binodmx"><sup><tt>Linkedin</tt></sup></a>&emsp;
