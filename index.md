@@ -15,23 +15,23 @@ I am a PhD student at RMIT University, Australia, and a former software engineer
 
 ## Education 🎓
 
-### PhD (Computer Science)
+### PhD Computer Science (2023 - Present)
 School of Computing Technologies<br>
-RMIT University, Australia<br>
-*2023 - Present*
+RMIT University<br>
+Australia
 
-### BSc Engineering (Hons)
+### BSc Engineering Hons (2016 - 2021)
 Department of Computer Science and Engineering<br>
-University of Moratuwa, Sri Lanka<br>
-*2016 - 2021*
+University of Moratuwa<br>
+Sri Lanka
 
 ## Professional Experience 💼
 
-### Software Engineer @WSO2
+### Software Engineer at WSO2 (2021 - 2023)
 
 Contributed as a full-stack developer within the WSO2 API Manager and Choreo teams, focusing on middleware development in an open-source ecosystem. Key responsibilities included feature development, update creation, testing and quality assurance, documentation, and research & development. Delivered scalable, high-performance solutions ensuring robust and efficient system designs.
 
-### Software Engineering Intern @WSO2
+### Software Engineering Intern at WSO2 (2019)
 
 Contributed to the development of a key feature in WSO2 API Manager 3.1.0, enabling seamless invocation of AWS Lambda functions through the WSO2 API Gateway. Implemented support for AWS Lambda as a primary endpoint type, streamlining client operations by eliminating the need for multiple API management tools. This enhancement improved the WSO2 API Manager's flexibility and integration capabilities.
 
