@@ -11,9 +11,7 @@
   <a href="#"><img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="20"></a> <a href="https://www.hackerrank.com/profile/binod16"><sup><tt>HackerRank</tt></sup></a>&emsp;
 </p>
 
-<!-- https://www.kaggle.com/binodmx -->
-
-I am a PhD student at RMIT University Australia and a BSc Engineering (Hons) graduate from University of Moratuwa Sri Lanka, with a strong background in Computer Science and Engineering. My research focuses on <u>Artificial Intelligence (AI)</u>, <u>Internet of Things (IoT)</u>, and <u>Edge Computing</u>. With a passion for innovation and a commitment to advancing technology, I seek to contribute my expertise to projects that push the boundaries of these fields.
+I am a PhD student at RMIT University, Australia, and a former software engineer at WSO2 LLC. I hold a BSc Engineering (Hons) degree from the University of Moratuwa, Sri Lanka with a strong foundation in Computer Science and Engineering. My research focuses on <u>Artificial Intelligence (AI)</u>, <u>Internet of Things (IoT)</u>, and <u>Edge Computing</u>. With a passion for innovation and a commitment to advancing technology, I seek to contribute my expertise to projects that push the boundaries of these fields.
 
 ## Education 🎓
 
@@ -27,17 +25,15 @@ Department of Computer Science and Engineering<br>
 University of Moratuwa, Sri Lanka<br>
 *2016 - 2021*
 
-
 ## Professional Experience 💼
 
 ### Software Engineer @WSO2
 
-Contributing to feature development, update creation and R&D work in WSO2 API Manager and Choreo teams. Focused on middleware development in an open source environment as a full stack software developer.
-
+Contributed as a full-stack developer within the WSO2 API Manager and Choreo teams, focusing on middleware development in an open-source ecosystem. Key responsibilities included feature development, update creation, testing and quality assurance, documentation, and research & development. Delivered scalable, high-performance solutions ensuring robust and efficient system designs.
 
 ### Software Engineering Intern @WSO2
 
-Integrated AWS Lambda support for WSO2 API Manager. This feature was released in WSO2 API Manager 3.1.0.
+Contributed to the development of a key feature in WSO2 API Manager 3.1.0, enabling seamless invocation of AWS Lambda functions through the WSO2 API Gateway. Implemented support for AWS Lambda as a primary endpoint type, streamlining client operations by eliminating the need for multiple API management tools. This enhancement improved the WSO2 API Manager's flexibility and integration capabilities.
 
 ## Technical Skills 🛠️
 
@@ -51,7 +47,7 @@ Integrated AWS Lambda support for WSO2 API Manager. This feature was released in
 |Embedded Computing|`Arduino` `RaspberryPi` `NVIDIA Jetson`|
 |Cloud Computing|`AWS` `GCP` `Azure`|
 |DevOps & CI/CD|`Docker` `Kubernetes` `GitHub Workflows`|
-|LLM Orchestration|`LangChain` `AutoGen`|
+|LLM Orchestration|`LangChain` `LangGraph` `AutoGen`|
 
 ## Certifications 🏅
 
