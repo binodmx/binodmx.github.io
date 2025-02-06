@@ -51,6 +51,7 @@ Contributed to the development of a key feature in WSO2 API Manager 3.1.0, enabl
 
 ## Certifications 🏅
 
+- [Large Language Model Agents by Berkeley Center for Responsible, Decentralized Intelligence (2025)](https://mcusercontent.com/0d89bb5c8066a9533eb98759d/files/1ef4073d-0d38-5622-c201-acfafffffca7/llmagentsf24_certificate_no335.pdf)
 - [Generative AI with Large Language Models by deeplearning.ai (2024)](https://www.coursera.org/account/accomplishments/verify/021DPGJ0LH34)
 - [Oracle Cloud Infrastructure Generative AI Professional (2024)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FB85CE94E8D96A6C7260F60AC271B1D351C575039429A739E916072D22F6435F)
 - [Machine Learning Specialization by deeplearning.ai (2024)](https://www.coursera.org/account/accomplishments/specialization/BAR4Y6FC3766)
