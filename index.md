@@ -11,7 +11,7 @@
   <a href="#"><img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="20"></a> <a href="https://www.hackerrank.com/profile/binod16"><sup><tt>HackerRank</tt></sup></a>&emsp;
 </p>
 
-I am a PhD student at RMIT University, Australia, and a former software engineer at WSO2 LLC. I hold a BSc Engineering (Hons) degree from the University of Moratuwa, Sri Lanka with a strong foundation in Computer Science and Engineering. My research focuses on <u>Generative Artificial Intelligence (Gen AI)</u>, <u>Internet of Things (IoT)</u>, and <u>Edge Computing</u>. With a passion for innovation and a commitment to advancing technology, I seek to contribute my expertise to projects that push the boundaries of these fields.
+I am a PhD student at RMIT University, Australia, and a former software engineer at WSO2 LLC. I hold a BSc Engineering (Hons) degree from the University of Moratuwa, Sri Lanka with a strong foundation in Computer Science and Engineering. My research focuses on <u>Generative Artificial Intelligence (GenAI)</u>, <u>Internet of Things (IoT)</u>, and <u>Edge Computing</u>. With a passion for innovation and a commitment to advancing technology, I seek to contribute my expertise to projects that push the boundaries of these fields.
 
 ## Education 🎓
 
