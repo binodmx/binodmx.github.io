@@ -65,6 +65,7 @@ Contributed to the development of a key feature in WSO2 API Manager 3.1.0, enabl
 
 ## Publications 📄
 
+- B. Karunanayake, I. Khalil, X. Yi, and K. Y. Lam, 'Toward LLM-driven Adaptive Policy Orchestration for Host-based Intrusion Detection Systems in IoT Environments,' in Special Issue on Generative AI for Secure Communications and Networking on IEEE Network Magazine.
 - B. Karunanayake, U. Munasinghe, P. Demotte, L. Senevirathne, and S. Ranathunga, 'Sinhala Sentiment Lexicon Generation using Word Similarity', in *2020 20th International Conference on Advances in ICT for Emerging Regions (ICTer)*, 2020, pp. 77–82.
 
 <!-- ## Badges 🛡️
