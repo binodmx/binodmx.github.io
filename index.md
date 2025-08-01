@@ -27,6 +27,10 @@ Sri Lanka
 
 ## Professional Experience 💼
 
+### Tutor at RMIT University (2025 - Present)
+
+Delivering hands-on lab practicals for undergraduate/postgraduate students for the course COSC2674/2755 Programming Internet of Things in Semester 2, 2025. Responsibilities include collaborating with course instructors to ensure the smooth delivery of lab sessions and alignment with course objectives, as well as providing feedback on student lab assessments.
+
 ### Software Engineer at WSO2 (2021 - 2023)
 
 Contributed as a full-stack developer within the WSO2 API Manager and Choreo teams, focusing on middleware development in an open-source ecosystem. Key responsibilities included feature development, update creation, testing and quality assurance, documentation, and research & development. Delivered scalable, high-performance solutions ensuring robust and efficient system designs.
