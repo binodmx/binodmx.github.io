@@ -8,7 +8,8 @@
   <a href="#"><img src="https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19" width="20"></a> <a href="https://binodmx.medium.com"><sup><tt>Medium</tt></sup></a>&emsp;
   <a href="#"><img src="https://scholar.google.com/favicon.ico" width="20"></a> <a href="https://scholar.google.com/citations?user=nlbLUJ0AAAAJ"><sup><tt>Google Scholar</tt></sup></a>&emsp;
   <a href="#"><img src="https://orcid.org/assets/icons/favicon.ico" width="20"></a> <a href="https://orcid.org/0000-0002-0426-1190"><sup><tt>ORCiD</tt></sup></a>&emsp;
-  <a href="#"><img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="20"></a> <a href="https://www.hackerrank.com/profile/binod16"><sup><tt>HackerRank</tt></sup></a>&emsp;
+  <a href="#"><img src="https://www.webofscience.com/wos/static/favicon.png" width="20"></a> <a href="https://www.webofscience.com/wos/author/record/JFS-8132-2023"><sup><tt>Web of Science</tt></sup></a>&emsp;
+<!--   <a href="#"><img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="20"></a> <a href="https://www.hackerrank.com/profile/binod16"><sup><tt>HackerRank</tt></sup></a>&emsp; -->
 </p>
 
 I am a PhD student at RMIT University, Australia, and a former software engineer at WSO2 LLC. I hold a BSc Engineering (Hons) degree from the University of Moratuwa, Sri Lanka with a strong foundation in Computer Science and Engineering. My research focuses on <u>Generative Artificial Intelligence (GenAI)</u>, <u>Internet of Things (IoT)</u>, and <u>Edge Computing</u>. With a passion for innovation and a commitment to advancing technology, I seek to contribute my expertise to projects that push the boundaries of these fields.
@@ -93,3 +94,4 @@ Contributed to the development of a key feature in WSO2 API Manager 3.1.0, enabl
     </td>
   </tr>
 </table> -->
+
