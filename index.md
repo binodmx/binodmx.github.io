@@ -44,10 +44,10 @@ Contributed to the development of a key feature in WSO2 API Manager 3.1.0, enabl
 
 |Area|Technologies|
 |-|-|
-|Programming Languages|`Python` `Java` `JavaScript` `TypeScript` `C` `C++` `PHP` `GO` `Dart` `Ballerina`|
+|Programming Languages|`Python` `Java` `C` `C++` `PHP` `GO` `Dart` `Ballerina`|
 |Build Tools|`Maven` `Gradle` `NPM`|
 |Version Control|`Git` `GitHub`|
-|Web App Development|`HTML` `CSS` `React` `Angular`|
+|Web App Development|`HTML` `CSS` `JavaScript` `TypeScript` `React` `Angular`|
 |Mobile App Development|`Android Studio` `Flutter` `Unity` `Google Appsheet`|
 |Embedded Computing|`Arduino` `RaspberryPi` `NVIDIA Jetson`|
 |Cloud Computing|`AWS` `GCP` `Azure`|
@@ -94,5 +94,6 @@ Contributed to the development of a key feature in WSO2 API Manager 3.1.0, enabl
     </td>
   </tr>
 </table> -->
+
 
 
