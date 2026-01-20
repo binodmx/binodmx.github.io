@@ -30,7 +30,7 @@ Sri Lanka
 
 ### Tutor at RMIT University (2025 - Present)
 
-Delivering hands-on lab practicals for undergraduate/postgraduate students for the course COSC2674/2755 Programming Internet of Things in Semester 2, 2025. Responsibilities include collaborating with course instructors to ensure the smooth delivery of lab sessions and alignment with course objectives, as well as providing feedback on student lab assessments.
+Delivering hands-on lab practicals for undergraduate students for the course COSC2674 Programming Internet of Things in Semester 2, 2025. Responsibilities include collaborating with course instructors to ensure the smooth delivery of lab sessions and alignment with course objectives, as well as providing feedback on student lab assessments.
 
 ### Software Engineer at WSO2 (2021 - 2023)
 
@@ -94,6 +94,7 @@ Contributed to the development of a key feature in WSO2 API Manager 3.1.0, enabl
     </td>
   </tr>
 </table> -->
+
 
 
 
