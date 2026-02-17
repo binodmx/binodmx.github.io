@@ -52,7 +52,7 @@ Contributed to the development of a key feature in WSO2 API Manager 3.1.0, enabl
 |Embedded Computing|`Arduino` `RaspberryPi` `NVIDIA Jetson`|
 |Cloud Computing|`AWS` `GCP` `Azure`|
 |DevOps & CI/CD|`Docker` `Kubernetes` `GitHub Workflows`|
-|LLM Orchestration & Fine-tuning |`LangChain` `LangGraph` `AutoGen` `MCP` `Huggingface`|
+|LLM Orchestration & Fine-tuning |`LangChain` `LangGraph` `AutoGen` `Huggingface` `MCP` `A2A`|
 
 ## Certifications 🏅
 
@@ -94,6 +94,7 @@ Contributed to the development of a key feature in WSO2 API Manager 3.1.0, enabl
     </td>
   </tr>
 </table> -->
+
 
 
 
