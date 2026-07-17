@@ -71,9 +71,10 @@ Contributed to the development of a key feature in WSO2 API Manager 3.1.0, enabl
 
 ## Publications 📄
 
-- B. Karunanayake, I. Khalil, X. Yi, and K. Y. Lam, 'Toward LLM-driven Adaptive Policy Orchestration for Host-based Intrusion Detection Systems in IoT Environments,' in Special Issue on Generative AI for Secure Communications and Networking on IEEE Network Magazine.
-- P. Demotte, L. Senevirathne, B. Karunanayake, U. Munasinghe and S. Ranathunga, 'Sentiment Analysis of Sinhala News Comments using Sentence-State LSTM Networks,' *2020 Moratuwa Engineering Research Conference (MERCon)*, Moratuwa, Sri Lanka, 2020, pp. 283-288, doi: 10.1109/MERCon50084.2020.9185327.
-- B. Karunanayake, U. Munasinghe, P. Demotte, L. Senevirathne, and S. Ranathunga, 'Sinhala Sentiment Lexicon Generation using Word Similarity', in *2020 20th International Conference on Advances in ICT for Emerging Regions (ICTer)*, 2020, pp. 77–82.
+- B. Karunanayake, I. Khalil, and M. Atiquzzaman, '[HealthwearSPMG: Resource-Aware Semantically Pruned Predictive Model Generation for Healthcare Wearable Devices](https://ieeexplore.ieee.org/document/11605105),' in Special Issue on Intelligent Internet of Medical Things (IIoMT) on IEEE Internet of Things Magazine.
+- B. Karunanayake, I. Khalil, X. Yi, and K. Y. Lam, '[Toward LLM-driven Adaptive Policy Orchestration for Host-based Intrusion Detection Systems in IoT Environments](https://ieeexplore.ieee.org/document/11036113/),' in Special Issue on Generative AI for Secure Communications and Networking on IEEE Network Magazine.
+- P. Demotte, L. Senevirathne, B. Karunanayake, U. Munasinghe and S. Ranathunga, '[Sentiment Analysis of Sinhala News Comments using Sentence-State LSTM Networks](https://ieeexplore.ieee.org/document/9185327),' *2020 Moratuwa Engineering Research Conference (MERCon)*, Moratuwa, Sri Lanka, 2020, pp. 283-288, doi: 10.1109/MERCon50084.2020.9185327.
+- B. Karunanayake, U. Munasinghe, P. Demotte, L. Senevirathne, and S. Ranathunga, '[Sinhala Sentiment Lexicon Generation using Word Similarity](https://ieeexplore.ieee.org/document/9325457)', in *2020 20th International Conference on Advances in ICT for Emerging Regions (ICTer)*, 2020, pp. 77–82.
 
 <!-- ## Badges 🛡️
 
