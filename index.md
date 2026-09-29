@@ -10,6 +10,7 @@
   <a href="#"><img src="https://orcid.org/assets/icons/favicon.ico" width="20"></a> <a href="https://orcid.org/0000-0002-0426-1190"><sup><tt>ORCiD</tt></sup></a>&emsp;
   <a href="#"><img src="https://dblp.org/img/dblp.icon.120x120.png" width="20"></a> <a href="https://dblp.org/pid/278/7976.html"><sup><tt>DBLP</tt></sup></a>&emsp;
   <a href="#"><img src="https://www.webofscience.com/wos/static/favicon.png" width="20"></a> <a href="https://www.webofscience.com/wos/author/record/JFS-8132-2023"><sup><tt>Web of Science</tt></sup></a>&emsp;
+  <a href="#"><img src="https://info.credly.com/hubfs/Credly_orange-favicon-2.png" width="20"></a> <a href="https://www.credly.com/users/binod-karunanayake"><sup><tt>Credly</tt></sup></a>&emsp;
 <!--   <a href="#"><img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="20"></a> <a href="https://www.hackerrank.com/profile/binod16"><sup><tt>HackerRank</tt></sup></a>&emsp; -->
 </p>
 
@@ -29,7 +30,11 @@ Sri Lanka
 
 ## Professional Experience 💼
 
-### Tutor at RMIT University (2025 - Present)
+### Sessional Lecturer at Victoria University (2026 - Present)
+
+Delivering lecture and lab sessions for undergraduate students for the module NIT3222 Virtualization in Computing. Responsibilities include teaching core concepts, updating teaching materials, marking assignments, supporting students, and collaborating with the unit convenor to ensure teaching aligns with learning outcomes.
+
+### Sessional Tutor at RMIT University (2025 - Present)
 
 Delivering hands-on lab practicals and tutorials for undergraduate students for the courses COSC2674 Programming Internet of Things, and COSC1111 Data Communication and Net-Centric Computing. Responsibilities include collaborating with course instructors to ensure the smooth delivery of lab sessions and alignment with course objectives, as well as providing feedback on student lab assessments.
 
@@ -52,11 +57,12 @@ Contributed to the development of a key feature in WSO2 API Manager 3.1.0, enabl
 |Mobile App Development|`Android Studio` `Flutter` `Unity` `Google Appsheet`|
 |Embedded Computing|`Arduino` `RaspberryPi` `NVIDIA Jetson`|
 |Cloud Computing|`AWS` `GCP` `Azure`|
-|DevOps & CI/CD|`Docker` `Kubernetes` `GitHub Workflows`|
+|DevOps & CI/CD|`Docker` `Kubernetes` `GitHub Workflows` `Hyper-V`|
 |LLM Orchestration & Fine-tuning |`LangChain` `LangGraph` `AutoGen` `Huggingface` `MCP` `A2A`|
 
 ## Certifications 🏅
 
+- [Hyper-V on Windows Server 2022 and Windows 11 on Udemy (2026)](https://www.udemy.com/certificate/UC-4c1874a0-9c5c-455a-8f37-6e9443c7c467/)
 - [Large Language Model Agents by Berkeley Center for Responsible, Decentralized Intelligence (2025)](https://mcusercontent.com/0d89bb5c8066a9533eb98759d/files/1ef4073d-0d38-5622-c201-acfafffffca7/llmagentsf24_certificate_no335.pdf)
 - [Generative AI with Large Language Models by deeplearning.ai (2024)](https://www.coursera.org/account/accomplishments/verify/021DPGJ0LH34)
 - [Oracle Cloud Infrastructure Generative AI Professional (2024)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FB85CE94E8D96A6C7260F60AC271B1D351C575039429A739E916072D22F6435F)
@@ -75,29 +81,3 @@ Contributed to the development of a key feature in WSO2 API Manager 3.1.0, enabl
 - B. Karunanayake, I. Khalil, X. Yi, and K. Y. Lam, '[Toward LLM-driven Adaptive Policy Orchestration for Host-based Intrusion Detection Systems in IoT Environments](https://ieeexplore.ieee.org/document/11036113/),' in Special Issue on Generative AI for Secure Communications and Networking on IEEE Network Magazine.
 - P. Demotte, L. Senevirathne, B. Karunanayake, U. Munasinghe and S. Ranathunga, '[Sentiment Analysis of Sinhala News Comments using Sentence-State LSTM Networks](https://ieeexplore.ieee.org/document/9185327),' *2020 Moratuwa Engineering Research Conference (MERCon)*, Moratuwa, Sri Lanka, 2020, pp. 283-288, doi: 10.1109/MERCon50084.2020.9185327.
 - B. Karunanayake, U. Munasinghe, P. Demotte, L. Senevirathne, and S. Ranathunga, '[Sinhala Sentiment Lexicon Generation using Word Similarity](https://ieeexplore.ieee.org/document/9325457)', in *2020 20th International Conference on Advances in ICT for Emerging Regions (ICTer)*, 2020, pp. 77–82.
-
-<!-- ## Badges 🛡️
-
-<table>
-  <tr>
-    <td>
-      <a href="https://data.typeracer.com/pit/profile?user=binodmx&ref=badge" target="_blank"><img src="https://data.typeracer.com/misc/badge?user=binodmx"></a>
-    </td>
-    <td>
-      <a href="https://stackexchange.com/users/14262691" target="_blank"><img src="https://stackexchange.com/users/flair/14262691.png"></a>
-    </td>
-    <td>
-      <a href="https://github.com/binodmx" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=binodmx&theme=dark&hide_border=false&include_all_commits=true&count_private=true"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <a href="https://www.holopin.io/@binodmx" target="_blank"><img src="https://holopin.me/binodmx"></a>
-    </td>
-  </tr>
-</table> -->
-
-
-
-
-
